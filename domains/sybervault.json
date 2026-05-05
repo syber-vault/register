@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "syber-vault",
+    "email": "sybervault@gmail.com"
+  },
+  "target": {
+    "CNAME": "sybervault.onrender.com"
+  },
+  "proxied": false
+}
